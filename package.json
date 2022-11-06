@@ -1,0 +1,25 @@
+{
+  "name": "my-dear-3d-editor",
+  "version": "1.0.0",
+  "description": "Google Sheet link(Only for Collaborators): https://docs.google.com/spreadsheets/d/1GuPIPVgBUQSdSgvrnZ1rixl8kWiAjJu-0C3fMgRhOyE/edit?usp=sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiSae-Lee/my-dear-3d-editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiSae-Lee/my-dear-3d-editor/issues"
+  },
+  "homepage": "https://github.com/KiSae-Lee/my-dear-3d-editor#readme",
+  "dependencies": {
+    "@types/three": "^0.144.0",
+    "three": "^0.146.0",
+    "typescript": "^4.8.4"
+  }
+}
